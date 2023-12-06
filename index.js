@@ -179,11 +179,3 @@ root.render(<XYZ />)
 
 reportWebVitals();
 
-// Started this project on 17 nov,2023 (let's see how many days it take to build)
-// 351 files as of 5.30 pm [texttospeech folder] 18 nov,2023
-// 375 files as of 8.07 pm ,, 19 nov,2023,, size - 308MB [texttospeech folder]
-// 395  files as of 9 pm ,, 20 nov,2023 ,, size - 309MB ,, size on disk -- 357MB [ texttospeech folder ]
-// 21 nov --- did 2.5 hours of coding
-// 22 nov --- 1.5 hours only
-// 23rd nov --- 39,551 files,, size -- 348 mb ,, size on disk -- 396 mb as of 7.48 pm
- // completed on 5 december 7.42 pm
